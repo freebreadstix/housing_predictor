@@ -1,6 +1,6 @@
 # Ames Housing Data
 
-**Note:** moved from incorrectly stored data science projects repo
+**Note:** Project is incomplete, moved from incorrectly stored data science projects repo
 
 ## Objective: 
 
